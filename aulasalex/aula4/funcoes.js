@@ -2,7 +2,7 @@
 //console.log(x)
 //x = 'oi';
 
- //string
+                       //string
 //function x(texto){
 //    console.log(texto)
 //}
